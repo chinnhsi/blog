@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chin&#39;s blog</title>
+  
+  
+  <link href="https://chinhsi.com/atom.xml" rel="self"/>
+  
+  <link href="https://chinhsi.com/"/>
+  <updated>2021-06-26T14:29:52.607Z</updated>
+  <id>https://chinhsi.com/</id>
+  
+  <author>
+    <name>Chin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://chinhsi.com/hello-world/"/>
+    <id>https://chinhsi.com/hello-world/</id>
+    <published>2021-06-26T14:22:41.000Z</published>
+    <updated>2021-06-26T14:29:52.607Z</updated>
+    
+    <content type="html"><![CDATA[<p>好久没写博客了，上一次建博客站是4年前吧。<br>一直用的OneNote写东西，发现还是发布出来这样能水GitHub😄<br>手机端什么的后面再改改 </p>]]></content>
+    
+    
+    <summary type="html">你好，世界！</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
